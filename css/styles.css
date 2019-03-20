@@ -1,0 +1,35 @@
+.para {
+  font-size: 24px
+}
+
+
+.column {
+  float: left;
+  width: 18%;
+  padding-right: 2%;
+}
+
+.pad{
+  width: 100%;
+}
+
+
+.column img {
+  width: 100%;
+  border: solid black;
+}
+
+.column p{
+  font-style: italic;
+}
+
+.column h4{
+  text-align: center;
+  text-decoration: underline;
+}
+body{
+  height:100vh;
+  width:100vw;
+  margin-left:20px;
+  margin-right: 50px;
+}
